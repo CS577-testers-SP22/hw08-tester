@@ -1,4 +1,4 @@
-# hw07-tester
+# hw08-tester
 
 Additional tests for CS577 Spring 2022 HW08: More Dynamic Programming
 
